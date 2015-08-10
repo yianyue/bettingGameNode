@@ -1,0 +1,19 @@
+{
+  "name": "bettingGame",
+  "version": "1.0.0",
+  "description": "converting betting game from js to node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:yianyue/bettingGameNode.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yianyue/bettingGameNode/issues"
+  },
+  "homepage": "https://github.com/yianyue/bettingGameNode"
+}
